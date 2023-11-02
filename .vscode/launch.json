@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Attach Debugger",
+            "type": "node",
+            "request": "attach",
+            "remoteRoot": "/usr/app",
+            "localRoot": "${workspaceFolder}"
+        }
+    ]
+}
